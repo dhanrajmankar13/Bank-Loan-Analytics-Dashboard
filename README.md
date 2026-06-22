@@ -48,9 +48,9 @@ README.md
 ---
 ## Dashboard Screenshots
 ### Summary Dashboard
-![Summary Dashboard](Images/Bank Loan Analytics Summary Dashboard)
+![Summary Dashboard](Bank%20Loan%20Analytics%20Summary%20Dashboard.png)
 ### Overview Dashboard
-![Overview Dashboard](Images/Bank Loan Analytics Overview Dashboard)
+![Overview Dashboard](Bank%20Loan%20Analytics%20Overview%20Dashboard.png)
 ---
 ## Business Insights
 - Good loans account for the majority of loan applications.
